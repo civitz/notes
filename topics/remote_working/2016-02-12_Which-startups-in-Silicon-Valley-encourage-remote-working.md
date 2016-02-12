@@ -1,5 +1,5 @@
 ---
-title: Which startups in Silicon Valley encourage remote working?
+title: "Which startups in Silicon Valley encourage remote working?"
 tags: [ remote_working, jobs ]
 type: link
 ---
