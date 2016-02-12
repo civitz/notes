@@ -1,2 +1,4 @@
-# notes
-Notes i collect during my journey
+# Notes
+Notes i collect during my journey.
+
+
